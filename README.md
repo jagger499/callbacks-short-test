@@ -1,2 +1,2 @@
 # callbacks-short-test
-trabajando con callbacks para refrescar conceptos
+trabajando con promesas, callbacks, funciones asincronas y consumo de apispara refrescar conceptos
